@@ -1,0 +1,30 @@
+{
+  "before": {
+    "within_duplicates": 0,
+    "cross_duplicates": 0,
+    "empty_categories": [
+      "290(Услуги по аренде техники, оборудования, бытовых товаров и предметов личного пользования)",
+      "114(Прочие пищевые продукты, не включенные в другие группировки)"
+    ],
+    "total_items": 13696
+  },
+  "moves": {
+    "rental_from_realty": 20,
+    "rental_from_transport": 3,
+    "food_from_vegetables": 1
+  },
+  "added": {
+    "rental": 7,
+    "food": 29
+  },
+  "after": {
+    "within_duplicates": 0,
+    "cross_duplicates": 0,
+    "empty_categories": [],
+    "total_items": 13732
+  },
+  "filled_counts": {
+    "290(Услуги по аренде техники, оборудования, бытовых товаров и предметов личного пользования)": 30,
+    "114(Прочие пищевые продукты, не включенные в другие группировки)": 30
+  }
+}
