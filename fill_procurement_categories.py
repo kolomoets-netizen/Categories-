@@ -89,16 +89,27 @@ def search_catalog_keywords(cat_name: str, all_keywords: list[str]) -> list[str]
     return matched
 
 
+def is_service_category(cat_name: str) -> bool:
+    service_words = [
+        "услуг", "работ", "обслуживан", "аренд", "ремонт", "проект",
+        "перевоз", "экспедиц", "тамож", "хранен", "обучен", "тренинг",
+        "консалт", "юридич", "клининг", "транспорт", "страхов", "образован",
+        "медицин", "гостинич", "турист", "ритуальн", "рекрутинг", "маркетинг",
+        "аудитор", "бухгалтер", "финансов", "сертификац", "аттестац",
+        "благоустройств", "озеленен", "утилизац", "дезинфекц", "содержан",
+        "эксплуатац", "выполнение", "оказание", "организация", "проведение",
+    ]
+    name = cat_name.lower()
+    return any(w in name for w in service_words)
+
+
 def generate_from_name(cat_name: str, need: int, seen: set[str]) -> list[str]:
     """Generate grammatically plausible procurement items from category name."""
     tokens = category_tokens(cat_name)
     if not tokens:
         tokens = [cat_name.split()[0].lower()]
 
-    service = any(w in cat_name.lower() for w in [
-        "услуг", "работ", "обслуживан", "аренд", "ремонт", "проект", "перевоз",
-        "экспедиц", "тамож", "хранен", "обучен", "тренинг", "консалт",
-    ])
+    service = is_service_category(cat_name)
 
     found: list[str] = []
     bases = tokens[:5]
@@ -179,8 +190,8 @@ def fill_category(
     # Priority 1: mapped industrial catalog
     add(mapped_kw.get(cat_name, []))
 
-    # Priority 2: token search in full catalog
-    if len(result) < TARGET_COUNT:
+    # Priority 2: token search in full catalog (goods only)
+    if len(result) < TARGET_COUNT and not is_service_category(cat_name):
         add(search_catalog_keywords(cat_name, all_keywords))
 
     # Priority 3: domain vocabulary (KTRU / zakupki style)
