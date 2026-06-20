@@ -349,6 +349,15 @@ def main() -> None:
     stats["orig_mapping_methods"] = dict(orig_methods)
     stats["mapped_orig_categories"] = len(orig_to_user)
 
+    print("Removing cross-category duplicates...")
+    from dedupe_training_dataset import dedupe_cross_category
+
+    before_dedupe = sum(len(v) for v in output.values())
+    output, dedupe_stats = dedupe_cross_category(output)
+    stats["before_dedupe"] = before_dedupe
+    stats["after_dedupe"] = dedupe_stats["items_after"]
+    stats["cross_category_removed"] = dedupe_stats["cross_category_removed"]
+
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     with open(STATS_PATH, "w", encoding="utf-8") as f:
@@ -357,7 +366,9 @@ def main() -> None:
     print(f"\nOutput: {OUTPUT_PATH}")
     print(f"Base items: {stats['base_items']}")
     print(f"Added keywords: {stats['keywords_added']}")
-    print(f"Total items: {stats['output_items']}")
+    print(f"Total items: {stats.get('after_dedupe', stats['output_items'])}")
+    if "cross_category_removed" in stats:
+        print(f"Cross-category duplicates removed: {stats['cross_category_removed']}")
     print(f"Unmapped keywords: {stats['unmapped_keywords']}")
     print(f"Categories with additions: {stats['categories_with_additions']}")
 

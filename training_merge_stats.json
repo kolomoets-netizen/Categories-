@@ -111,5 +111,8 @@
     "token_orig": 11,
     "fuzzy_orig": 48
   },
-  "mapped_orig_categories": 1133
+  "mapped_orig_categories": 1133,
+  "before_dedupe": 16726,
+  "after_dedupe": 13696,
+  "cross_category_removed": 3030
 }
