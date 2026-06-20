@@ -1,0 +1,115 @@
+{
+  "base_categories": 231,
+  "base_items": 7509,
+  "catalog_categories": 1175,
+  "catalog_keywords": 9384,
+  "keywords_added": 9217,
+  "output_items": 16726,
+  "unmapped_keywords": 0,
+  "keyword_methods": {
+    "rule_keyword": 23,
+    "category_map": 9313,
+    "fuzzy_keyword": 48
+  },
+  "categories_with_additions": 62,
+  "top_growth": [
+    {
+      "category": "Детали и узлы машин и механизмов",
+      "before": 42,
+      "after": 2857,
+      "added": 2815
+    },
+    {
+      "category": "Утеплители",
+      "before": 30,
+      "after": 1748,
+      "added": 1718
+    },
+    {
+      "category": "Трубопроводная арматура, детали трубопроводов",
+      "before": 30,
+      "after": 1308,
+      "added": 1278
+    },
+    {
+      "category": "Крепежные изделия",
+      "before": 40,
+      "after": 1188,
+      "added": 1148
+    },
+    {
+      "category": "Провода и кабели",
+      "before": 150,
+      "after": 884,
+      "added": 734
+    },
+    {
+      "category": "Станки, их детали и принадлежности",
+      "before": 30,
+      "after": 691,
+      "added": 661
+    },
+    {
+      "category": "Металлопрокат",
+      "before": 30,
+      "after": 338,
+      "added": 308
+    },
+    {
+      "category": "Оборудование электрораспределительное и аппаратура контроля",
+      "before": 42,
+      "after": 150,
+      "added": 108
+    },
+    {
+      "category": "Инструменты",
+      "before": 100,
+      "after": 163,
+      "added": 63
+    },
+    {
+      "category": "Материалы и изделия из пластмасс",
+      "before": 30,
+      "after": 89,
+      "added": 59
+    },
+    {
+      "category": "Приборы для научных исследований",
+      "before": 30,
+      "after": 80,
+      "added": 50
+    },
+    {
+      "category": "Сварочное оборудование",
+      "before": 30,
+      "after": 63,
+      "added": 33
+    },
+    {
+      "category": "Рукава, ленты конвейерные, ремни, ткани прорезиненные, эбонит",
+      "before": 30,
+      "after": 54,
+      "added": 24
+    },
+    {
+      "category": "Котлы отопительные, котельное и теплообменное оборудование",
+      "before": 30,
+      "after": 52,
+      "added": 22
+    },
+    {
+      "category": "Транспортные средства, спецтехника, детали и запчасти к ним",
+      "before": 60,
+      "after": 77,
+      "added": 17
+    }
+  ],
+  "orig_mapping_methods": {
+    "unmapped_orig": 42,
+    "detailed_mapping": 944,
+    "rule": 130,
+    "token_orig": 11,
+    "fuzzy_orig": 48
+  },
+  "mapped_orig_categories": 1133
+}
