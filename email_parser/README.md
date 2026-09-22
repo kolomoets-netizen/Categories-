@@ -1,14 +1,9 @@
-# Partner Email Parser
+# Partner Email & Site List Parser
 
-Парсер email-адресов с сайтов партнёров.
+Два инструмента в одном CLI:
 
-## Возможности
-
-- обход главной страницы и страниц «Контакты / About / Impressum»
-- извлечение из текста, `mailto:` и обфускаций (`info [at] site [dot] com`, `&#64;`)
-- фильтр служебных адресов (`noreply`, трекеры, фейковые domain)
-- отчёт JSON / CSV
-- пометка адресов, совпадающих с доменом сайта
+1. **`sites`** — собрать ссылки на сайты со страницы с пагинацией  
+2. **`emails`** — достать email-адреса с сайтов партнёров
 
 ## Установка
 
@@ -16,44 +11,61 @@
 pip install -r email_parser/requirements.txt
 ```
 
-## Использование
-
-Один или несколько сайтов:
+## 1. Парсер списка сайтов (пагинация)
 
 ```bash
-python -m email_parser -u https://partner.ru -u partner2.com
+PYTHONPATH=. python3 -m email_parser sites \
+  -u "https://catalog.example/partners" \
+  -o partner_sites.txt \
+  --json partners.json
 ```
 
-Список из файла:
+### Полезные флаги
+
+| Флаг | Зачем |
+|------|--------|
+| `--link-selector` | CSS-селектор ссылок на сайты, напр. `a.partner-url` |
+| `--next-selector` | CSS-селектор кнопки «следующая», напр. `a.next` |
+| `--page-param page` | Пагинация вида `?page=2` |
+| `--max-pages 100` | Лимит страниц листинга |
+| `--include-internal` | Не отбрасывать ссылки на тот же домен |
+| `-o file.txt` | Список сайтов (по одному на строку) |
+
+Автоопределение пагинации:
+- `rel="next"`
+- текст «Следующая / Next / › / »»
+- `?page=N`, `/page/N/`, нумерация страниц
+
+## 2. Парсер email
 
 ```bash
-python -m email_parser -f email_parser/partners.example.txt -o report.json --csv report.csv
+PYTHONPATH=. python3 -m email_parser emails \
+  -f partner_sites.txt \
+  -o report.json --csv report.csv
 ```
 
-Через stdin:
+Или напрямую:
 
 ```bash
-echo "https://tilda.cc" | python -m email_parser --all-emails
+PYTHONPATH=. python3 -m email_parser emails -u https://partner.ru
 ```
 
-### Параметры
+Старый синтаксис без подкоманды тоже работает (как `emails`).
 
-| Флаг | Описание |
-|------|----------|
-| `-u / --url` | URL или домен (можно несколько раз) |
-| `-f / --file` | Файл со списком сайтов |
-| `-o` | JSON-отчёт |
-| `--csv` | CSV-отчёт |
-| `--max-pages` | Макс. страниц на сайт (по умолчанию 8) |
-| `--delay` | Пауза между запросами, сек |
-| `--all-emails` | Показать все найденные адреса, не только домен сайта |
+## Конвейер
+
+```bash
+PYTHONPATH=. python3 -m email_parser sites -u "https://YOUR_LISTING_URL" -o partner_sites.txt
+PYTHONPATH=. python3 -m email_parser emails -f partner_sites.txt -o emails.json --csv emails.csv
+```
 
 ## Тесты
 
 ```bash
-python email_parser/test_extractor.py
+PYTHONPATH=. python3 email_parser/test_extractor.py
+PYTHONPATH=. python3 email_parser/test_site_list.py
 ```
 
 ## Важно
 
-Используйте только для сайтов партнёров / публичных контактов, соблюдайте robots.txt и условия сайта. Не для массового спама.
+Только для публичных страниц партнёров / каталогов. Соблюдайте правила сайта и robots.txt.
