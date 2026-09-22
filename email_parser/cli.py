@@ -155,6 +155,7 @@ def cmd_sites(args: argparse.Namespace) -> int:
         next_selector=args.next_selector,
         page_param=args.page_param,
         external_only=not args.include_internal,
+        url_text_only=args.url_text_only,
     )
     result = parser.crawl(args.url)
 
@@ -230,8 +231,8 @@ def build_parser() -> argparse.ArgumentParser:
     s.add_argument("-o", "--output", help="Output txt with sites (default: partner_sites.txt)")
     s.add_argument("--json", help="Optional JSON report path")
     s.add_argument("--max-pages", type=int, default=100, help="Max listing pages to crawl")
-    s.add_argument("--delay", type=float, default=0.5)
-    s.add_argument("--timeout", type=float, default=15.0)
+    s.add_argument("--delay", type=float, default=0.8)
+    s.add_argument("--timeout", type=float, default=45.0)
     s.add_argument(
         "--link-selector",
         help='CSS selector for site links, e.g. "a.partner-link" or ".card a[href]"',
@@ -242,7 +243,12 @@ def build_parser() -> argparse.ArgumentParser:
     )
     s.add_argument(
         "--page-param",
-        help='Force query pagination param, e.g. "page" for ?page=2',
+        help='Force query pagination param, e.g. "page" or "pageNumber_inp" (1c.ru)',
+    )
+    s.add_argument(
+        "--url-text-only",
+        action="store_true",
+        help="Prefer anchors whose visible text is a URL (partner catalogs)",
     )
     s.add_argument(
         "--include-internal",

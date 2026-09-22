@@ -46,6 +46,29 @@ def test_page_param():
     assert "page=5" in nxt
 
 
+def test_page_number_inp_1c():
+    parser = SiteListParser()
+    url = (
+        "https://1c.ru/rus/partners/franch-citylist.jsp"
+        "?reg=&city=&partnerName=&is_map_open=0&mark=true&pageNumber_inp=2"
+    )
+    nxt = parser.find_next_url("<html></html>", url, 2)
+    assert "pageNumber_inp=3" in nxt
+
+
+def test_extract_from_js_embedded_html():
+    html = r'''
+    var balloon = "Сайт: <a href=http://rarus.ru target=\"_blank\">http://rarus.ru</a>";
+    <td><a href="http://www.hs.by/" style="color: #333333;" target="blank"><small>http://www.hs.by/</small></a></td>
+    <a href="https://buh.ru/">БУХ.1С</a>
+    '''
+    parser = SiteListParser(external_only=True)
+    sites = parser.extract_sites(html, "https://1c.ru/rus/partners/franch-citylist.jsp")
+    assert "https://rarus.ru" in sites
+    assert "https://www.hs.by" in sites
+    assert "https://buh.ru" not in sites  # blocked nav link
+
+
 def test_path_pagination():
     parser = SiteListParser()
     nxt = parser.find_next_url("<html></html>", "https://x.test/partners/page/7/", 7)

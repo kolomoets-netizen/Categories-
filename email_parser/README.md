@@ -54,6 +54,22 @@ PYTHONPATH=. python3 -m email_parser sites \
 - текст «Следующая / Next / › / »»
 - `?page=N`, `/page/N/`, нумерация страниц
 
+### Пример: каталог франчайзи 1С
+
+Страница: `https://1c.ru/rus/partners/franch-citylist.jsp?...&pageNumber_inp=1`
+
+Ссылки партнёров лежат в HTML/JS карты (не только в DOM-таблице). Парсер это учитывает.
+Обычно хватает **1 страницы** — на ней в карте уже почти все сайты:
+
+```bash
+docker run --rm -v "${PWD}:/data" partner-parser sites \
+  -u "https://1c.ru/rus/partners/franch-citylist.jsp?reg=&city=&partnerName=&is_map_open=0&mark=true&pageNumber_inp=1" \
+  --page-param pageNumber_inp \
+  --max-pages 1 \
+  --timeout 90 \
+  -o /data/partner_sites.txt
+```
+
 ## 2. Парсер email
 
 ```bash
