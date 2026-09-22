@@ -1,0 +1,4 @@
+# Partner sites — one URL or domain per line
+# Lines starting with # are ignored
+https://example.com
+tilda.cc

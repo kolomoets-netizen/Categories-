@@ -1,0 +1,2758 @@
+{
+  "unmatched_original_categories": [
+    {
+      "original_category": "Детали заклепок",
+      "keywords_count": 18
+    },
+    {
+      "original_category": "Арматура ящичная, футлярная и приборная",
+      "keywords_count": 16
+    },
+    {
+      "original_category": "Отборные устройства",
+      "keywords_count": 14
+    },
+    {
+      "original_category": "Ключи гаечные",
+      "keywords_count": 13
+    },
+    {
+      "original_category": "Замки",
+      "keywords_count": 12
+    },
+    {
+      "original_category": "Детали крепления трубопроводов из цветных металлов",
+      "keywords_count": 11
+    },
+    {
+      "original_category": "Прочие детали замков",
+      "keywords_count": 11
+    },
+    {
+      "original_category": "Фольга из цветных металлов",
+      "keywords_count": 9
+    },
+    {
+      "original_category": "28-03-02 Helicopter",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "Ножи",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "Рукоятки и ручки для станочных приспособлений",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "Люки",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "Камеры водяные",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "Прочие детали и узлы сосудов и аппаратов",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "Прочие кнопки",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "Вспомогательное лесопильное оборудование",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "Петли и детали к ним",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "Оборудование для производства болтов и саморезов",
+      "keywords_count": 8
+    },
+    {
+      "original_category": "23-02-01 Cardan shaft",
+      "keywords_count": 7
+    },
+    {
+      "original_category": "Оборудование для производства оцилиндрованного бревна",
+      "keywords_count": 7
+    },
+    {
+      "original_category": "Устройства и детали устройств для сосудов и аппаратов",
+      "keywords_count": 7
+    },
+    {
+      "original_category": "Слитки из цветных металлов",
+      "keywords_count": 7
+    },
+    {
+      "original_category": "Аксессуары для клемм",
+      "keywords_count": 7
+    },
+    {
+      "original_category": "Детали хомутов нержавеющие",
+      "keywords_count": 7
+    },
+    {
+      "original_category": "Тяги стальные",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "27-02-22 High voltage three-phase current asynchronous motor",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Околостаночная механизация для лесопиления",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Рычаги для станочных приспособлений",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Установы и щупы для станочных приспособлений",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Детали крепления подшипников качения",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Детали пломбирования",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Разъемы силовые",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Детали к оправкам",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Ребра для станочных приспособлений",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Воротки",
+      "keywords_count": 6
+    },
+    {
+      "original_category": "Сальники, кабельные вводы, люверсы",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Пробойники, бородки",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Призмы для станочных приспособлений",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Кулачки для станочных приспособлений",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Лепестки",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Тела качения подшипников (шарики, ролики)",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Цепи приводные",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Ремни приводные клиновые",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Талрепы и комплектующие к ним",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Днища плоские",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Смесители пыли",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Звенья к прочим цепям",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Клинья",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Оборудование для термообработки",
+      "keywords_count": 5
+    },
+    {
+      "original_category": "Донышки стальные",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Плетенки металлические экранирующие",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Герда для промышленных сетей передачи данных",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Бобышки стальные прямые",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Гильзы кабельные",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Напильники, надфили, рашпили",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Зубила, крейцмейсели",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Адаптеры, цанги, запчасти",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "123",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Ремни приводные зубчатые",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Коуши",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Цепи грузовые",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Трубные доски, решетки",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Радиационно-защитное оборудование",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Компоненты железных дорог",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Валики и оси",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Оборудование для производства гаек",
+      "keywords_count": 4
+    },
+    {
+      "original_category": "Специализированное оборудование",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Комплексы для переработки тонкомера",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Механизация для древесных отходов",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Плашки",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Цанги",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Серьги для станочных приспособлений",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Направляющие и фиксаторы для станочных приспособлений",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Штыри для станочных приспособлений",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Упоры нержавеющие",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Упоры стальные",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Цепи тяговые",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Ремни приводные плоские",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Днища конические",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Карманы всасывающие",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Звенья к приводным цепям",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Сетки стальные",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Сетки нержавеющие",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Выключатели нагрузки модульные",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Расцепители независимые",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Выключатели, переключатели",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Розетки встроенные стандарта CEE",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Детали хомутов стальные",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Амортизаторы",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Бирки маркировочные",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Шарниры и детали к ним",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Штеккеры, штыри, оси",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Детали для литейных форм",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Кондукторы",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Оборудование для гальванообработки",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Аппараты для приварки метизов и шпилек",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Системы гравировки и маркировки",
+      "keywords_count": 3
+    },
+    {
+      "original_category": "Компенсаторы стальные сильфонные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Бобышки стальные скошенные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Компенсаторы нержавеющие сильфонные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Балки стальные опорные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Траверсы стальные для узлов крепления трубопроводов",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Проушины стальные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Оптические линейки и УЦИ",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Сортировка пиломатериалов",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Рубительные машины барабанного типа",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Форматно-раскроечные центры",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Вакуумные прессы для облицовки",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Стамески, долота",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Отвертки",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Патроны с хвостовиком типа конус Морзе",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Планки для станочных приспособлений",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Пяты для станочных приспособлений",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Вилки для станочных приспособлений",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Плунжеры для станочных приспособлений",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Оси для станочных приспособлений",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Ножки для станочных приспособлений",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Перемычки",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Контакт-детали",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Шкивы для клиновых ремней",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Шнуры уплотнительные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Стропы",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Тали",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Днища эллиптические, сферические",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Подогреватели",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Деаэраторы",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Вспомогательное оборудование",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Болтокомплекты",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Подставки для турбин и генераторов",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "ts",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Жесть стальная",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Полособульбы стальные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Бандажи стальные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Полособульбы из цветных металлов",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Шины из цветных металлов",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Фанера",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Розетки модульные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Контакты дополнительные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Вставки плавкие прочие",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Колпачки защитные",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Тавры из цветных металлов",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Трехгранники, четырехгранники для станочных приспособлений",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Колодки",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Кронштейны",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Пистоны",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Детали блоков такелажных",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Головки делительные и зажимные приспособления",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Люнеты к державкам",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Упоры для станочных приспособлений",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Хомутики поводковые",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Домкраты",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Приспособления для балансировки",
+      "keywords_count": 2
+    },
+    {
+      "original_category": "Герда универсальный силовой (0.66, 1кВ)",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Герда для высокоскоростных передач данных",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Шины",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Компенсаторы стальные сальниковые",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Сгоны стальные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Донышки нержавеющие",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Бобышки нержавеющие прямые",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Сгоны из цветных металлов",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Талрепы стальные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Вилки стальные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Ушки стальные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Серьги стальные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Проушины нержавеющие",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Гильзы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Сальники набивные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Сальники нажимные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Карманы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Котельные установки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "23-02-04 Shaft-hub-connection",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "23-02-92 Shaft (accessories)",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Гильотины электромеханические",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Кривошипные прессы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Линии сортировки бревен",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Пилорамы ленточные вертикальные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Пилорамы дисковые горизонтальные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Механизация к четырехсторонним станкам",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Оборудование для получения опилок",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Пылевые вентиляторы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Планшетно-режущие плоттеры",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Роликовые столы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Расточные головки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Зенковки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Цековки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Тиски прецизионные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Кулачки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Колонки для пресс-форм",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Эксцентрики для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Ушки для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Ролики для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Колодки для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Крючки для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Цапфы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Сухари для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Кнопки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Серьги",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Колпачки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Ключи",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Колпаки чугунные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Скобы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Плавники стальные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Плавники нержавеющие",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Лапы стальные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Лапы нержавеющие",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Редукторы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Ремни приводные поликлиновые",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Вариаторы ременные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Вариаторы цепные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Вариаторы конусные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Такелаж лесосплавный",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Катушки, бобины, барабаны",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Мешки, сумки, пакеты",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Циклоны",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Горелки вихревые",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Испарители",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Лазы и лючки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Источники ионизирующих излучений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Пищевая продукция",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Подкладки для турбин и генераторов",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Вставки плавкие цилиндрические",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Кнопки с подсветкой",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Тумблеры",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Прочие переключатели",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Таймеры",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Катанка стальная",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Катанка из цветных металлов",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Сетки из цветных металлов",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Рулоны резинотехнические",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Шнуры резинотехнические",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Доски",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Бруски",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Брусья",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "ДВП, ДСП",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Бумага",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Картон и фибра",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Индикаторы световые модульные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Держатели низковольтных плавких предохранителей",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Вставки плавкие цилиндрические",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Контакты вспомогательные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Модули усилителя для контакторов",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Преобразователи частоты",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Выключатели концевые",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Заземлители",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Разрядники тока молнии для систем электроснабжения",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Плоттеры",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Сканеры штрих-кода",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Вольтметры",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Джойстики",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Извещатели световые и звуковые",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Кулачковые переключатели",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Потенциометры",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Заглушка для клемм и гребенок",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Колпачки сменные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Выключатели-разъединители, рубильники",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Кнопки грибовидные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Магнитопроводы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Дополнительное кромкооблицовочные оборудование",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Полотна ножовочные",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Окрасочные камеры",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Булавки контровые",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Трубки термоусаживаемые",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Фиксаторы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Арматура переходов печатных плат",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Тара специальная",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Защелки для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Коробки для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Буры",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Лапки для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Распорки для станочных приспособлений",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Стеклорезы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Пылеулавливающие агрегаты",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Упаковочное оборудование",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Патроны с хвостовиком типа конус 7 к 24",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Кожухи шлифовальных кругов",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Ножовки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Приспособления для правки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Горизонтально-расточные обрабатывающие центры с ЧПУ",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Токарно-карусельные обрабатывающие центры",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Аспирационные системы",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Оборудование для очистки поверхностей",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Вилки",
+      "keywords_count": 1
+    },
+    {
+      "original_category": "Розетки",
+      "keywords_count": 1
+    }
+  ],
+  "unmatched_user_categories": [
+    {
+      "id": 1,
+      "slug": "automatic_control_systems_measuring_instruments_and_apparatus",
+      "ru": "Безопасность, охрана",
+      "path": "Безопасность, охрана"
+    },
+    {
+      "id": 238,
+      "slug": "fire_protection",
+      "ru": "Пожарная сигнализация",
+      "path": "Безопасность, охрана > Пожарная сигнализация"
+    },
+    {
+      "id": 9,
+      "slug": "automatic_fire_extinguishing_and_fire_alarm_equipment_and_apparatus",
+      "ru": "Приборы и аппаратура систем автоматического пожаротушения и пожарной сигнализации",
+      "path": "Безопасность, охрана > Пожарная сигнализация > Приборы и аппаратура систем автоматического пожаротушения и пожарной сигнализации"
+    },
+    {
+      "id": 246,
+      "slug": "paper_containers_packaging",
+      "ru": "Бумага, тара, упаковка",
+      "path": "Бумага, тара, упаковка"
+    },
+    {
+      "id": 222,
+      "slug": "paper",
+      "ru": "Бумага, картон",
+      "path": "Бумага, тара, упаковка > Бумага, картон"
+    },
+    {
+      "id": 247,
+      "slug": "paper_and_cardboard_containers",
+      "ru": "Бумажная и картонная тара",
+      "path": "Бумага, тара, упаковка > Бумажная и картонная тара"
+    },
+    {
+      "id": 223,
+      "slug": "corrugated_boxes",
+      "ru": "Гофротара",
+      "path": "Бумага, тара, упаковка > Бумажная и картонная тара > Гофротара"
+    },
+    {
+      "id": 228,
+      "slug": "bags_for_bakery_products",
+      "ru": "Пакеты для ХБИ",
+      "path": "Бумага, тара, упаковка > Бумажная и картонная тара > Пакеты для ХБИ"
+    },
+    {
+      "id": 227,
+      "slug": "flour_bags",
+      "ru": "Пакеты для муки",
+      "path": "Бумага, тара, упаковка > Бумажная и картонная тара > Пакеты для муки"
+    },
+    {
+      "id": 248,
+      "slug": "paper_and_cardboard_products",
+      "ru": "Изделия из бумаги и картона",
+      "path": "Бумага, тара, упаковка > Изделия из бумаги и картона"
+    },
+    {
+      "id": 234,
+      "slug": "napkins_substrates",
+      "ru": "Салфетки, подложки",
+      "path": "Бумага, тара, упаковка > Изделия из бумаги и картона > Салфетки, подложки"
+    },
+    {
+      "id": 221,
+      "slug": "packing_materials",
+      "ru": "Упаковочные материалы",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы"
+    },
+    {
+      "id": 224,
+      "slug": "film_for_packaging_products",
+      "ru": "Ленты",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Ленты"
+    },
+    {
+      "id": 225,
+      "slug": "sacks_and_bags_used_for_packing_goods",
+      "ru": "Мешки и пакеты, используемые для упаковки товаров",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Мешки и пакеты, используемые для упаковки товаров"
+    },
+    {
+      "id": 237,
+      "slug": "threads_for_packaging",
+      "ru": "Нити для упаковки",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Нити для упаковки"
+    },
+    {
+      "id": 229,
+      "slug": "plastic_containers",
+      "ru": "Пластиковые контейнеры",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Пластиковые контейнеры"
+    },
+    {
+      "id": 231,
+      "slug": "film_for_bakery_products",
+      "ru": "Пленка для ХБИ",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Пленка для ХБИ"
+    },
+    {
+      "id": 230,
+      "slug": "film_for_dry_confectionery_products",
+      "ru": "Пленка для сухих кондитерских изделий",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Пленка для сухих кондитерских изделий"
+    },
+    {
+      "id": 232,
+      "slug": "stretch_film",
+      "ru": "Пленка стрейч",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Пленка стрейч"
+    },
+    {
+      "id": 233,
+      "slug": "shrink_film",
+      "ru": "Пленка термоусадочная",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Пленка термоусадочная"
+    },
+    {
+      "id": 235,
+      "slug": "forms_capsules",
+      "ru": "Формы, капсулы",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Формы, капсулы"
+    },
+    {
+      "id": 236,
+      "slug": "labels_stickers_emblems_and_similar_products_made_of_other_materials",
+      "ru": "Ярлыки, этикетки, эмблемы и аналогичные изделия из прочих материалов",
+      "path": "Бумага, тара, упаковка > Упаковочные материалы > Ярлыки, этикетки, эмблемы и аналогичные изделия из прочих материалов"
+    },
+    {
+      "id": 298,
+      "slug": "veterinary",
+      "ru": "Ветеринария",
+      "path": "Ветеринария"
+    },
+    {
+      "id": 21,
+      "slug": "secondary_raw_materials_waste_scrap",
+      "ru": "Вторсырье, отходы, лом",
+      "path": "Вторсырье, отходы, лом"
+    },
+    {
+      "id": 23,
+      "slug": "nonmetal_waste",
+      "ru": "Неметаллические отходы",
+      "path": "Вторсырье, отходы, лом > Неметаллические отходы"
+    },
+    {
+      "id": 24,
+      "slug": "waste_recycling_services",
+      "ru": "Услуги по вторичной переработке отходов",
+      "path": "Вторсырье, отходы, лом > Услуги по вторичной переработке отходов"
+    },
+    {
+      "id": 25,
+      "slug": "timber_wooden_products_and_forestry_services",
+      "ru": "Деревообработка, лес",
+      "path": "Деревообработка, лес"
+    },
+    {
+      "id": 26,
+      "slug": "wooden_products",
+      "ru": "Деревянные конструкции и изделия из дерева",
+      "path": "Деревообработка, лес > Деревянные конструкции и изделия из дерева"
+    },
+    {
+      "id": 27,
+      "slug": "wild-growing_forest_products_cellulose_wood_pulp",
+      "ru": "Пробка, смолы, прочая продукция лесопереработки",
+      "path": "Деревообработка, лес > Пробка, смолы, прочая продукция лесопереработки"
+    },
+    {
+      "id": 28,
+      "slug": "sawn_timber",
+      "ru": "Продукция лесопильной промышленности",
+      "path": "Деревообработка, лес > Продукция лесопильной промышленности"
+    },
+    {
+      "id": 249,
+      "slug": "services_related_to_logging_and_forestry",
+      "ru": "Услуги связанные с лесозаготовками и лесоводством",
+      "path": "Деревообработка, лес > Услуги связанные с лесозаготовками и лесоводством"
+    },
+    {
+      "id": 29,
+      "slug": "log_and_wood_transportation",
+      "ru": "Транспортирование бревен, трелевочные работы",
+      "path": "Деревообработка, лес > Услуги связанные с лесозаготовками и лесоводством > Транспортирование бревен, трелевочные работы"
+    },
+    {
+      "id": 30,
+      "slug": "forestry_services",
+      "ru": "Услуги в лесном хозяйстве",
+      "path": "Деревообработка, лес > Услуги связанные с лесозаготовками и лесоводством > Услуги в лесном хозяйстве"
+    },
+    {
+      "id": 131,
+      "slug": "it_computer_equipment_electronics",
+      "ru": "Компьютеры, офисная техника, ПО",
+      "path": "Компьютеры, офисная техника, ПО"
+    },
+    {
+      "id": 266,
+      "slug": "computers_and_accessories_computer_equipment_office_equipment",
+      "ru": "Компьютеры и комплектующие, вычислительная техника, оргтехника",
+      "path": "Компьютеры, офисная техника, ПО > Компьютеры и комплектующие, вычислительная техника, оргтехника"
+    },
+    {
+      "id": 133,
+      "slug": "computers_and_accessories",
+      "ru": "Компьютеры и их комплектующие",
+      "path": "Компьютеры, офисная техника, ПО > Компьютеры и комплектующие, вычислительная техника, оргтехника > Компьютеры и их комплектующие"
+    },
+    {
+      "id": 136,
+      "slug": "data_storage",
+      "ru": "Накопители данных",
+      "path": "Компьютеры, офисная техника, ПО > Компьютеры и комплектующие, вычислительная техника, оргтехника > Накопители данных"
+    },
+    {
+      "id": 135,
+      "slug": "peripheral",
+      "ru": "Периферийные устройства",
+      "path": "Компьютеры, офисная техника, ПО > Компьютеры и комплектующие, вычислительная техника, оргтехника > Периферийные устройства"
+    },
+    {
+      "id": 137,
+      "slug": "software",
+      "ru": "Программное обеспечение",
+      "path": "Компьютеры, офисная техника, ПО > Программное обеспечение"
+    },
+    {
+      "id": 134,
+      "slug": "expendable_material",
+      "ru": "Расходные материалы",
+      "path": "Компьютеры, офисная техника, ПО > Расходные материалы"
+    },
+    {
+      "id": 132,
+      "slug": "information_technology_internet_services",
+      "ru": "Сетевое оборудование, монтаж и установка",
+      "path": "Компьютеры, офисная техника, ПО > Сетевое оборудование, монтаж и установка"
+    },
+    {
+      "id": 157,
+      "slug": "consumer_goods",
+      "ru": "Легкая промышленность, товары народного потребления",
+      "path": "Легкая промышленность, товары народного потребления"
+    },
+    {
+      "id": 160,
+      "slug": "haberdashery_souvenirs_gifts",
+      "ru": "Галантерея, сувениры, подарки",
+      "path": "Легкая промышленность, товары народного потребления > Галантерея, сувениры, подарки"
+    },
+    {
+      "id": 161,
+      "slug": "baby_products",
+      "ru": "Детские товары",
+      "path": "Легкая промышленность, товары народного потребления > Детские товары"
+    },
+    {
+      "id": 163,
+      "slug": "toys_games",
+      "ru": "Игры и игрушки",
+      "path": "Легкая промышленность, товары народного потребления > Игры и игрушки"
+    },
+    {
+      "id": 171,
+      "slug": "perfumes_cosmetics_hygiene_products",
+      "ru": "Парфюмерия, косметика, средства гигиены",
+      "path": "Легкая промышленность, товары народного потребления > Парфюмерия, косметика, средства гигиены"
+    },
+    {
+      "id": 173,
+      "slug": "bedding_towels",
+      "ru": "Постельные принадлежности, полотенца",
+      "path": "Легкая промышленность, товары народного потребления > Постельные принадлежности, полотенца"
+    },
+    {
+      "id": 174,
+      "slug": "crockery_related_products",
+      "ru": "Посуда, домашняя утварь, предметы интерьер",
+      "path": "Легкая промышленность, товары народного потребления > Посуда, домашняя утварь, предметы интерьер"
+    },
+    {
+      "id": 175,
+      "slug": "other_products",
+      "ru": "Прочие товары",
+      "path": "Легкая промышленность, товары народного потребления > Прочие товары"
+    },
+    {
+      "id": 252,
+      "slug": "workwear_and_shoes",
+      "ru": "Спецодежда и обувь",
+      "path": "Легкая промышленность, товары народного потребления > Спецодежда и обувь"
+    },
+    {
+      "id": 168,
+      "slug": "shoes",
+      "ru": "Обувь",
+      "path": "Легкая промышленность, товары народного потребления > Спецодежда и обувь > Обувь"
+    },
+    {
+      "id": 167,
+      "slug": "clothes",
+      "ru": "Одежда",
+      "path": "Легкая промышленность, товары народного потребления > Спецодежда и обувь > Одежда"
+    },
+    {
+      "id": 65,
+      "slug": "clothes_and_footwear;_leather_and_fur_goods",
+      "ru": "Одежда, обувь, изделия из кожи и меха",
+      "path": "Легкая промышленность, товары народного потребления > Спецодежда и обувь > Одежда, обувь, изделия из кожи и меха"
+    },
+    {
+      "id": 169,
+      "slug": "coveralls",
+      "ru": "Спецодежда",
+      "path": "Легкая промышленность, товары народного потребления > Спецодежда и обувь > Спецодежда"
+    },
+    {
+      "id": 66,
+      "slug": "overalls_personal_protective_equipment",
+      "ru": "Спецодежда, средства индивидуальной защиты",
+      "path": "Легкая промышленность, товары народного потребления > Спецодежда и обувь > Спецодежда, средства индивидуальной защиты"
+    },
+    {
+      "id": 178,
+      "slug": "goods_for_the_garden",
+      "ru": "Товары для дачи, сада",
+      "path": "Легкая промышленность, товары народного потребления > Товары для дачи, сада"
+    },
+    {
+      "id": 181,
+      "slug": "jewelry_bijouterie",
+      "ru": "Украшения, ювелирная продукция, наградная продукция",
+      "path": "Легкая промышленность, товары народного потребления > Украшения, ювелирная продукция, наградная продукция"
+    },
+    {
+      "id": 262,
+      "slug": "sewing_textile_and_knitwear_other",
+      "ru": "Швейные, текстильные и трикотажные изделия прочие",
+      "path": "Легкая промышленность, товары народного потребления > Швейные, текстильные и трикотажные изделия прочие"
+    },
+    {
+      "id": 67,
+      "slug": "textiles",
+      "ru": "Текстильные изделия",
+      "path": "Легкая промышленность, товары народного потребления > Швейные, текстильные и трикотажные изделия прочие > Текстильные изделия"
+    },
+    {
+      "id": 177,
+      "slug": "fabrics_accessories",
+      "ru": "Ткани, фурнитура",
+      "path": "Легкая промышленность, товары народного потребления > Швейные, текстильные и трикотажные изделия прочие > Ткани, фурнитура"
+    },
+    {
+      "id": 31,
+      "slug": "machinery_and_equipment",
+      "ru": "Машиностроение и оборудование",
+      "path": "Машиностроение и оборудование"
+    },
+    {
+      "id": 274,
+      "slug": "gas_generators_industrial_air_conditioners_ventilation_and_refrigeration_equipment",
+      "ru": "Газогенераторы, промышленные кондиционеры, вентиляционное и холодильное оборудование",
+      "path": "Машиностроение и оборудование > Газогенераторы, промышленные кондиционеры, вентиляционное и холодильное оборудование"
+    },
+    {
+      "id": 33,
+      "slug": "gas_generators;_purification_devices",
+      "ru": "Газогенераторы; очистные устройства",
+      "path": "Машиностроение и оборудование > Газогенераторы, промышленные кондиционеры, вентиляционное и холодильное оборудование > Газогенераторы; очистные устройства"
+    },
+    {
+      "id": 42,
+      "slug": "air_conditioning_and_refrigeration_equipment",
+      "ru": "Оборудование для кондиционирования воздуха и холодильное оборудование",
+      "path": "Машиностроение и оборудование > Газогенераторы, промышленные кондиционеры, вентиляционное и холодильное оборудование > Оборудование для кондиционирования воздуха и холодильное оборудование"
+    },
+    {
+      "id": 240,
+      "slug": "parts_assemblies_and_components_of_general_machine-building_applications",
+      "ru": "Детали, узлы и комплектующие изделия общемашиностроительного применения",
+      "path": "Машиностроение и оборудование > Детали, узлы и комплектующие изделия общемашиностроительного применения"
+    },
+    {
+      "id": 17,
+      "slug": "special_instrument_engineering_tooling_and_components",
+      "ru": "Специальные средства технологической оснастки и узлы специального применения для изделий приборостроения",
+      "path": "Машиностроение и оборудование > Детали, узлы и комплектующие изделия общемашиностроительного применения > Специальные средства технологической оснастки и узлы специального применения для изделий приборостроения"
+    },
+    {
+      "id": 2,
+      "slug": "automated_informative_electric_power_accounting_systems",
+      "ru": "Автоматизированные информационно-измерительные системы коммерческого учета электроэнергии",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Автоматизированные информационно-измерительные системы коммерческого учета электроэнергии"
+    },
+    {
+      "id": 4,
+      "slug": "length_and_angle_meters",
+      "ru": "Инструменты для измерения длины и угла",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Инструменты для измерения длины и угла"
+    },
+    {
+      "id": 6,
+      "slug": "weighing_instruments",
+      "ru": "Приборы весоизмерительные",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Приборы весоизмерительные"
+    },
+    {
+      "id": 7,
+      "slug": "power_characteristics_measuring_and_testing_instruments",
+      "ru": "Приборы для измерения и проверки характеристик электричества",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Приборы для измерения и проверки характеристик электричества"
+    },
+    {
+      "id": 10,
+      "slug": "gas_supply_system_equipment_and_automation_means",
+      "ru": "Приборы и средства автоматизации систем газоснабжения",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Приборы и средства автоматизации систем газоснабжения"
+    },
+    {
+      "id": 11,
+      "slug": "process_control_equipment",
+      "ru": "Приборы контроля и регулирования технологических процессов",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Приборы контроля и регулирования технологических процессов"
+    },
+    {
+      "id": 12,
+      "slug": "equipment_for_non-destructive_quality_control_of_materials_and_products",
+      "ru": "Приборы неразрушающего контроля качества материалов и изделий",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Приборы неразрушающего контроля качества материалов и изделий"
+    },
+    {
+      "id": 13,
+      "slug": "optical_devices",
+      "ru": "Приборы оптические",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Приборы оптические"
+    },
+    {
+      "id": 19,
+      "slug": "process_remote_control_equipment",
+      "ru": "Средства телемеханики для контроля и регулирования технологических процессов",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Средства телемеханики для контроля и регулирования технологических процессов"
+    },
+    {
+      "id": 20,
+      "slug": "nuclear_and_radioisotope_instruments",
+      "ru": "Ядерные и радиоизотопные приборы",
+      "path": "Машиностроение и оборудование > Контрольно-измерительные приборы (КИП) > Ядерные и радиоизотопные приборы"
+    },
+    {
+      "id": 38,
+      "slug": "machinery_and_equipment_for_production_of_food_beverages_and_tobacco_products",
+      "ru": "Машины и оборудование для пищевой промышленности, производства напитков и табачной промышленности",
+      "path": "Машиностроение и оборудование > Машины и оборудование для пищевой промышленности, производства напитков и табачной промышленности"
+    },
+    {
+      "id": 39,
+      "slug": "machinery_and_equipment_for_production_of_textiles_clothes_and_leather_products",
+      "ru": "Машины и оборудование для производства текстильных изделий, одежды и изделий из кожи",
+      "path": "Машиностроение и оборудование > Машины и оборудование для производства текстильных изделий, одежды и изделий из кожи"
+    },
+    {
+      "id": 242,
+      "slug": "process_control_equipment_other_measuring_instruments",
+      "ru": "Оборудование для контроля технологических процессов, средства измерения прочие",
+      "path": "Машиностроение и оборудование > Оборудование для контроля технологических процессов, средства измерения прочие"
+    },
+    {
+      "id": 15,
+      "slug": "process_equipment_alarms",
+      "ru": "Сигнализаторы для технологического оборудования",
+      "path": "Машиностроение и оборудование > Оборудование для контроля технологических процессов, средства измерения прочие > Сигнализаторы для технологического оборудования"
+    },
+    {
+      "id": 18,
+      "slug": "automatic_equipment_for_linear_dimension_control",
+      "ru": "Средства автоматизации для контроля линейных размеров",
+      "path": "Машиностроение и оборудование > Оборудование для контроля технологических процессов, средства измерения прочие > Средства автоматизации для контроля линейных размеров"
+    },
+    {
+      "id": 251,
+      "slug": "oilfield_mining_drilling_equipment",
+      "ru": "Оборудование нефтепромысловое, горно-добывающее, буровое",
+      "path": "Машиностроение и оборудование > Оборудование нефтепромысловое, горно-добывающее, буровое"
+    },
+    {
+      "id": 36,
+      "slug": "mining_and_quarrying_machines_and_equipment",
+      "ru": "Машины и оборудование для горнодобывающей промышленности, эксплуатации карьеров",
+      "path": "Машиностроение и оборудование > Оборудование нефтепромысловое, горно-добывающее, буровое > Машины и оборудование для горнодобывающей промышленности, эксплуатации карьеров"
+    },
+    {
+      "id": 250,
+      "slug": "power_plants_turbines_and_other_power_equipment",
+      "ru": "Энергетические установки, турбины и прочее энергетическое оборудование",
+      "path": "Машиностроение и оборудование > Энергетические установки, турбины и прочее энергетическое оборудование"
+    },
+    {
+      "id": 45,
+      "slug": "ovens_burners_electric_furnace_units_and_equipment",
+      "ru": "Печи, горелки, электропечные агрегаты и оборудование",
+      "path": "Машиностроение и оборудование > Энергетические установки, турбины и прочее энергетическое оборудование > Печи, горелки, электропечные агрегаты и оборудование"
+    },
+    {
+      "id": 49,
+      "slug": "medical_products_and_healthcare_services",
+      "ru": "Медицина, фармакология",
+      "path": "Медицина, фармакология"
+    },
+    {
+      "id": 265,
+      "slug": "medical_examination",
+      "ru": "Медицинский осмотр, диспансеризация",
+      "path": "Медицина, фармакология > Медицинский осмотр, диспансеризация"
+    },
+    {
+      "id": 51,
+      "slug": "hospital_services",
+      "ru": "Услуги больниц и специализированных лечебных учреждений",
+      "path": "Медицина, фармакология > Медицинский осмотр, диспансеризация > Услуги больниц и специализированных лечебных учреждений"
+    },
+    {
+      "id": 52,
+      "slug": "outpatient_clinic_services",
+      "ru": "Услуги по амбулаторному лечению, предоставляемые поликлиниками",
+      "path": "Медицина, фармакология > Медицинский осмотр, диспансеризация > Услуги по амбулаторному лечению, предоставляемые поликлиниками"
+    },
+    {
+      "id": 50,
+      "slug": "medical_and_surgical_equipment;_orthopedic_appliances",
+      "ru": "Медицинское и хирургическое оборудование; ортопедические приспособления",
+      "path": "Медицина, фармакология > Медицинское и хирургическое оборудование; ортопедические приспособления"
+    },
+    {
+      "id": 53,
+      "slug": "health_resort_and_other_health_institutions_services",
+      "ru": "Услуги санаториев и прочих оздоровительных учреждений",
+      "path": "Медицина, фармакология > Услуги санаториев и прочих оздоровительных учреждений"
+    },
+    {
+      "id": 54,
+      "slug": "pharmaceuticals_medical_substances_and_medicinal_products",
+      "ru": "Фармацевтические препараты, медицинские вещества и лекарственные продукты",
+      "path": "Медицина, фармакология > Фармацевтические препараты, медицинские вещества и лекарственные продукты"
+    },
+    {
+      "id": 88,
+      "slug": "metallurgical_products",
+      "ru": "Металлы и металлоизделия",
+      "path": "Металлы и металлоизделия"
+    },
+    {
+      "id": 89,
+      "slug": "nonferrous_metal_products",
+      "ru": "Продукция из цветного металла",
+      "path": "Металлы и металлоизделия > Металлопрокат > Продукция из цветного металла"
+    },
+    {
+      "id": 90,
+      "slug": "ferrous_metal_products",
+      "ru": "Продукция из черного металла",
+      "path": "Металлы и металлоизделия > Металлопрокат > Продукция из черного металла"
+    },
+    {
+      "id": 243,
+      "slug": "science_research_education",
+      "ru": "Наука, исследования, образование",
+      "path": "Наука, исследования, образование"
+    },
+    {
+      "id": 244,
+      "slug": "laboratory_equipment",
+      "ru": "Лабораторное оборудование",
+      "path": "Наука, исследования, образование > Лабораторное оборудование"
+    },
+    {
+      "id": 3,
+      "slug": "particle_analyzers",
+      "ru": "Анализаторы частиц",
+      "path": "Наука, исследования, образование > Лабораторное оборудование > Анализаторы частиц"
+    },
+    {
+      "id": 8,
+      "slug": "research_instruments",
+      "ru": "Приборы для научных исследований",
+      "path": "Наука, исследования, образование > Лабораторное оборудование > Приборы для научных исследований"
+    },
+    {
+      "id": 63,
+      "slug": "weapons_and_ammunition;_parts_and_accessories",
+      "ru": "Оружие и боеприпасы, их части и принадлежности",
+      "path": "Оружие и боеприпасы, их части и принадлежности"
+    },
+    {
+      "id": 260,
+      "slug": "office_home",
+      "ru": "Офис, дом",
+      "path": "Офис, дом"
+    },
+    {
+      "id": 264,
+      "slug": "audio_video_photographic_equipment_projection_equipment_optical_devices",
+      "ru": "Аудио, видео, фототехника, проекционное оборудование, оптические приборы",
+      "path": "Офис, дом > Аудио, видео, фототехника, проекционное оборудование, оптические приборы"
+    },
+    {
+      "id": 170,
+      "slug": "optical_instruments",
+      "ru": "Оптические приборы",
+      "path": "Офис, дом > Аудио, видео, фототехника, проекционное оборудование, оптические приборы > Оптические приборы"
+    },
+    {
+      "id": 141,
+      "slug": "robotics_and_steam_toys",
+      "ru": "Роботехника и Stem -игрушки",
+      "path": "Офис, дом > Аудио, видео, фототехника, проекционное оборудование, оптические приборы > Роботехника и Stem -игрушки"
+    },
+    {
+      "id": 140,
+      "slug": "photo_and_video_cameras",
+      "ru": "Фото- и видеокамеры",
+      "path": "Офис, дом > Аудио, видео, фототехника, проекционное оборудование, оптические приборы > Фото- и видеокамеры"
+    },
+    {
+      "id": 263,
+      "slug": "household_appliances_watches",
+      "ru": "Бытовая техника, часы",
+      "path": "Офис, дом > Бытовая техника, часы"
+    },
+    {
+      "id": 158,
+      "slug": "household_appliances_and_accessories",
+      "ru": "Бытовая техника и комплектующие",
+      "path": "Офис, дом > Бытовая техника, часы > Бытовая техника и комплектующие"
+    },
+    {
+      "id": 139,
+      "slug": "portable_equipment",
+      "ru": "Портативная техника",
+      "path": "Офис, дом > Бытовая техника, часы > Портативная техника"
+    },
+    {
+      "id": 138,
+      "slug": "smartphone_and_smart_watch",
+      "ru": "Смартфон и умные часы",
+      "path": "Офис, дом > Бытовая техника, часы > Смартфон и умные часы"
+    },
+    {
+      "id": 164,
+      "slug": "stationery_office_supplies",
+      "ru": "Канцелярские товары, офисные принадлежности",
+      "path": "Офис, дом > Канцелярские товары, офисные принадлежности"
+    },
+    {
+      "id": 261,
+      "slug": "furniture",
+      "ru": "Мебель",
+      "path": "Офис, дом > Мебель"
+    },
+    {
+      "id": 165,
+      "slug": "carpets_rugs",
+      "ru": "Ковры, паласы",
+      "path": "Офис, дом > Мебель > Ковры, паласы"
+    },
+    {
+      "id": 166,
+      "slug": "furniture_and_accessories",
+      "ru": "Мебель и комплектующие",
+      "path": "Офис, дом > Мебель > Мебель и комплектующие"
+    },
+    {
+      "id": 299,
+      "slug": "transportation_logistics_customs",
+      "ru": "Перевозки, логистика, таможня",
+      "path": "Перевозки, логистика, таможня"
+    },
+    {
+      "id": 300,
+      "slug": "freight_transportation",
+      "ru": "Перевозки грузовые",
+      "path": "Перевозки, логистика, таможня > Перевозки грузовые"
+    },
+    {
+      "id": 301,
+      "slug": "passenger_transportation_taxi",
+      "ru": "Перевозки пассажирские, такси",
+      "path": "Перевозки, логистика, таможня > Перевозки пассажирские, такси"
+    },
+    {
+      "id": 303,
+      "slug": "other_transport_services",
+      "ru": "Транспортные услуги прочие",
+      "path": "Перевозки, логистика, таможня > Транспортные услуги прочие"
+    },
+    {
+      "id": 302,
+      "slug": "forwarding_services_customs_cargo_storage",
+      "ru": "Экспедиторские услуги, таможня, хранение грузов",
+      "path": "Перевозки, логистика, таможня > Экспедиторские услуги, таможня, хранение грузов"
+    },
+    {
+      "id": 68,
+      "slug": "minerals_raw_materials",
+      "ru": "Полезные ископаемые, сырье",
+      "path": "Полезные ископаемые, сырье"
+    },
+    {
+      "id": 70,
+      "slug": "precious_stone",
+      "ru": "Драгоценные камни",
+      "path": "Полезные ископаемые, сырье > Драгоценные камни"
+    },
+    {
+      "id": 71,
+      "slug": "natural_or_cultured_pearls",
+      "ru": "Жемчуг природный или культивированный",
+      "path": "Полезные ископаемые, сырье > Жемчуг природный или культивированный"
+    },
+    {
+      "id": 69,
+      "slug": "stones_clay_sand_and_other_types_of_mineral_raw_materials",
+      "ru": "Камень, глина, песок и прочие виды минерального сырья",
+      "path": "Полезные ископаемые, сырье > Камень, глина, песок и прочие виды минерального сырья"
+    },
+    {
+      "id": 73,
+      "slug": "natural_water_and_ice",
+      "ru": "Природная вода и лед",
+      "path": "Полезные ископаемые, сырье > Природная вода и лед"
+    },
+    {
+      "id": 75,
+      "slug": "metal_and_radioactive_ores",
+      "ru": "Руды металлические, радиоактивные",
+      "path": "Полезные ископаемые, сырье > Руды металлические, радиоактивные"
+    },
+    {
+      "id": 259,
+      "slug": "printing_advertising",
+      "ru": "Полиграфия, реклама",
+      "path": "Полиграфия, реклама"
+    },
+    {
+      "id": 172,
+      "slug": "printed_advertising_products",
+      "ru": "Печатная, рекламная продукция",
+      "path": "Полиграфия, реклама > Печатная, рекламная продукция"
+    },
+    {
+      "id": 104,
+      "slug": "food_services",
+      "ru": "Продукты питания, напитки, табак",
+      "path": "Продукты питания, напитки, табак"
+    },
+    {
+      "id": 105,
+      "slug": "alcohol_and_alcohol-containing_drinks",
+      "ru": "Алкогольная продукция",
+      "path": "Продукты питания, напитки, табак > Алкогольная продукция"
+    },
+    {
+      "id": 270,
+      "slug": "grocery",
+      "ru": "Бакалея",
+      "path": "Продукты питания, напитки, табак > Бакалея"
+    },
+    {
+      "id": 109,
+      "slug": "cereals_flour_and_other_products_of_the_milling_industry",
+      "ru": "Крупы, мука и прочая продукция мукомольной промышленности",
+      "path": "Продукты питания, напитки, табак > Бакалея > Крупы, мука и прочая продукция мукомольной промышленности"
+    },
+    {
+      "id": 110,
+      "slug": "pasta_noodles_and_bakery_products",
+      "ru": "Макароны, лапша и хлебобулочные изделия",
+      "path": "Продукты питания, напитки, табак > Бакалея > Макароны, лапша и хлебобулочные изделия"
+    },
+    {
+      "id": 111,
+      "slug": "sugar_cocoa_chocolate_and_confectionery",
+      "ru": "Сахар, какао, шоколад и кондитерские изделия",
+      "path": "Продукты питания, напитки, табак > Бакалея > Сахар, какао, шоколад и кондитерские изделия"
+    },
+    {
+      "id": 115,
+      "slug": "soda_and_food_salt",
+      "ru": "Сода и соль пищевая",
+      "path": "Продукты питания, напитки, табак > Бакалея > Сода и соль пищевая"
+    },
+    {
+      "id": 108,
+      "slug": "milk_cheeses_and_other_dairy_products",
+      "ru": "Молочные продукты",
+      "path": "Продукты питания, напитки, табак > Молочные продукты"
+    },
+    {
+      "id": 106,
+      "slug": "meat_fish_egg_and_other_livestock_products",
+      "ru": "Мясо, рыба, яйцо и прочая продукция животноводства",
+      "path": "Продукты питания, напитки, табак > Мясо, рыба, яйцо и прочая продукция животноводства"
+    },
+    {
+      "id": 112,
+      "slug": "beverages",
+      "ru": "Напитки, соки, воды",
+      "path": "Продукты питания, напитки, табак > Напитки, соки, воды"
+    },
+    {
+      "id": 113,
+      "slug": "fruits_vegetables_and_other_crop_products",
+      "ru": "Овощи, фрукты, ягоды, зелень, грибы",
+      "path": "Продукты питания, напитки, табак > Овощи, фрукты, ягоды, зелень, грибы"
+    },
+    {
+      "id": 114,
+      "slug": "other_food_products",
+      "ru": "Прочие пищевые продукты, не включенные в другие группировки",
+      "path": "Продукты питания, напитки, табак > Прочие пищевые продукты, не включенные в другие группировки"
+    },
+    {
+      "id": 107,
+      "slug": "plant_and_animal_oils_and_fats",
+      "ru": "Растительные и животные масла и жиры",
+      "path": "Продукты питания, напитки, табак > Растительные и животные масла и жиры"
+    },
+    {
+      "id": 182,
+      "slug": "tobacco_smokers_articles_matches",
+      "ru": "Табачная продукция",
+      "path": "Продукты питания, напитки, табак > Табачная продукция"
+    },
+    {
+      "id": 85,
+      "slug": "metal_working_equipment_metal_products",
+      "ru": "Продукция металлообработки, металлоизделия",
+      "path": "Продукция металлообработки, металлоизделия"
+    },
+    {
+      "id": 86,
+      "slug": "metal_products",
+      "ru": "Металлические изделия",
+      "path": "Продукция металлообработки, металлоизделия > Металлические изделия"
+    },
+    {
+      "id": 87,
+      "slug": "metal_structures_and_building_products",
+      "ru": "Металлоконструкции и металлические строительные изделия",
+      "path": "Продукция металлообработки, металлоизделия > Металлоконструкции и металлические строительные изделия"
+    },
+    {
+      "id": 103,
+      "slug": "works_of_art_collectibles_and_antiques",
+      "ru": "Произведения искусства, предметы коллекционирования и антиквариат",
+      "path": "Произведения искусства, предметы коллекционирования и антиквариат"
+    },
+    {
+      "id": 92,
+      "slug": "rubber_products",
+      "ru": "Резина и изделия из резины",
+      "path": "Резина и изделия из резины"
+    },
+    {
+      "id": 93,
+      "slug": "latex_and_rubber_materials_and_products",
+      "ru": "Материалы и изделия из латекса и резины",
+      "path": "Резина и изделия из резины > Материалы и изделия из латекса и резины"
+    },
+    {
+      "id": 94,
+      "slug": "tires_and_tubes",
+      "ru": "Покрышки и камеры",
+      "path": "Резина и изделия из резины > Покрышки и камеры"
+    },
+    {
+      "id": 95,
+      "slug": "rubber_raw_materials_rubber-containing_waste",
+      "ru": "Резины, сырье, отходы резиносодержащие",
+      "path": "Резина и изделия из резины > Резины, сырье, отходы резиносодержащие"
+    },
+    {
+      "id": 97,
+      "slug": "production_of_rubber_products",
+      "ru": "Услуги в производстве резиновых и резинотехнических изделий",
+      "path": "Резина и изделия из резины > Услуги в производстве резиновых и резинотехнических изделий"
+    },
+    {
+      "id": 142,
+      "slug": "telecommunications_communication_equipment_internet_security",
+      "ru": "Связь и коммуникации",
+      "path": "Связь и коммуникации"
+    },
+    {
+      "id": 271,
+      "slug": "cellular_communication_satellite_communication_radio_communication",
+      "ru": "Сотовая связь, спутниковая связь, радиосвязь",
+      "path": "Связь и коммуникации > Сотовая связь, спутниковая связь, радиосвязь"
+    },
+    {
+      "id": 145,
+      "slug": "radio_and_video_transceivers",
+      "ru": "Радио- и телевизионная передающая и приемная аппаратура",
+      "path": "Связь и коммуникации > Сотовая связь, спутниковая связь, радиосвязь > Радио- и телевизионная передающая и приемная аппаратура"
+    },
+    {
+      "id": 146,
+      "slug": "radar_equipment",
+      "ru": "Радиолокационная аппаратура",
+      "path": "Связь и коммуникации > Сотовая связь, спутниковая связь, радиосвязь > Радиолокационная аппаратура"
+    },
+    {
+      "id": 147,
+      "slug": "cable_communication_means_and_wired_communication_equipment",
+      "ru": "Средства кабельной связи и аппаратура проводной связи",
+      "path": "Связь и коммуникации > Сотовая связь, спутниковая связь, радиосвязь > Средства кабельной связи и аппаратура проводной связи"
+    },
+    {
+      "id": 143,
+      "slug": "telephone_and_telegraph_equipment",
+      "ru": "Телефонная связь",
+      "path": "Связь и коммуникации > Телефонная связь"
+    },
+    {
+      "id": 144,
+      "slug": "internet",
+      "ru": "Услуги интернет провайдеров",
+      "path": "Связь и коммуникации > Услуги интернет провайдеров"
+    },
+    {
+      "id": 148,
+      "slug": "communication_services",
+      "ru": "Услуги связи",
+      "path": "Связь и коммуникации > Услуги связи"
+    },
+    {
+      "id": 98,
+      "slug": "agricultural_and_garden_land_services",
+      "ru": "Сельское хозяйство, охота, рыболовство",
+      "path": "Сельское хозяйство, охота, рыболовство"
+    },
+    {
+      "id": 101,
+      "slug": "plant_care_products",
+      "ru": "Агрохимия и удобрения",
+      "path": "Сельское хозяйство, охота, рыболовство > Агрохимия и удобрения"
+    },
+    {
+      "id": 255,
+      "slug": "animal_husbandry_and_hunting_farms",
+      "ru": "Животноводство и охотничьи хозяйства",
+      "path": "Сельское хозяйство, охота, рыболовство > Животноводство и охотничьи хозяйства"
+    },
+    {
+      "id": 162,
+      "slug": "pet_supplies",
+      "ru": "Зоотовары",
+      "path": "Сельское хозяйство, охота, рыболовство > Животноводство и охотничьи хозяйства > Зоотовары"
+    },
+    {
+      "id": 99,
+      "slug": "agricultural_products",
+      "ru": "Продукция сельского хозяйства",
+      "path": "Сельское хозяйство, охота, рыболовство > Продукция сельского хозяйства"
+    },
+    {
+      "id": 176,
+      "slug": "plants_flowers_related_products",
+      "ru": "Растения, цветы, сопутствующие товары",
+      "path": "Сельское хозяйство, охота, рыболовство > Растения, цветы, сопутствующие товары"
+    },
+    {
+      "id": 102,
+      "slug": "agricultural_services",
+      "ru": "Сельскохозяйственные работы и услуги",
+      "path": "Сельское хозяйство, охота, рыболовство > Сельскохозяйственные работы и услуги"
+    },
+    {
+      "id": 100,
+      "slug": "agricultural_vehicles_equipment",
+      "ru": "Сельскохозяйственный инвентарь и вспомогательное оборудование",
+      "path": "Сельское хозяйство, охота, рыболовство > Сельскохозяйственный инвентарь и вспомогательное оборудование"
+    },
+    {
+      "id": 257,
+      "slug": "sports_recreation_tourism_cultur",
+      "ru": "Спорт, отдых, туризм, культура",
+      "path": "Спорт, отдых, туризм, культура"
+    },
+    {
+      "id": 258,
+      "slug": "equipment_for_entertainment_business",
+      "ru": "Оборудование для развлекательного бизнеса",
+      "path": "Спорт, отдых, туризм, культура > Оборудование для развлекательного бизнеса"
+    },
+    {
+      "id": 179,
+      "slug": "products_for_the_holidays",
+      "ru": "Товары для праздников",
+      "path": "Спорт, отдых, туризм, культура > Оборудование для развлекательного бизнеса > Товары для праздников"
+    },
+    {
+      "id": 180,
+      "slug": "goods_for_creativity",
+      "ru": "Товары для творчества",
+      "path": "Спорт, отдых, туризм, культура > Оборудование для развлекательного бизнеса > Товары для творчества"
+    },
+    {
+      "id": 117,
+      "slug": "building",
+      "ru": "Строительство",
+      "path": "Строительство"
+    },
+    {
+      "id": 121,
+      "slug": "concrete_and_asbestos_products",
+      "ru": "Бетон, цемент, известь, гипс",
+      "path": "Строительство > Бетон, цемент, известь, гипс"
+    },
+    {
+      "id": 304,
+      "slug": "ventilation",
+      "ru": "Вентиляция",
+      "path": "Строительство > Вентиляция"
+    },
+    {
+      "id": 307,
+      "slug": "exhaust_fans",
+      "ru": "Вентиляторы вытяжные",
+      "path": "Строительство > Вентиляция > Вентиляторы вытяжные"
+    },
+    {
+      "id": 305,
+      "slug": "air_ducts_and_components",
+      "ru": "Воздуховоды и комплектующие",
+      "path": "Строительство > Вентиляция > Воздуховоды и комплектующие"
+    },
+    {
+      "id": 306,
+      "slug": "ventilation_grates",
+      "ru": "Решетки вентиляционные",
+      "path": "Строительство > Вентиляция > Решетки вентиляционные"
+    },
+    {
+      "id": 119,
+      "slug": "reinforced_concrete_products",
+      "ru": "Железобетонные изделия",
+      "path": "Строительство > Железобетонные изделия"
+    },
+    {
+      "id": 122,
+      "slug": "acid_resistant_products",
+      "ru": "Изделия кислотоупорные",
+      "path": "Строительство > Изделия кислотоупорные"
+    },
+    {
+      "id": 308,
+      "slug": "windows_doors",
+      "ru": "Окна, двери",
+      "path": "Строительство > Окна, двери"
+    },
+    {
+      "id": 123,
+      "slug": "lumber_and_building_wood_products",
+      "ru": "Пиломатериалы и строительные деревянные изделия",
+      "path": "Строительство > Пиломатериалы и строительные деревянные изделия"
+    },
+    {
+      "id": 124,
+      "slug": "plumbing",
+      "ru": "Сантехника",
+      "path": "Строительство > Сантехника"
+    },
+    {
+      "id": 125,
+      "slug": "glass_and_glass_products",
+      "ru": "Стекло и изделия из стекла",
+      "path": "Строительство > Стекло и изделия из стекла"
+    },
+    {
+      "id": 129,
+      "slug": "building_clothes",
+      "ru": "Строительная спецодежда",
+      "path": "Строительство > Строительная спецодежда"
+    },
+    {
+      "id": 126,
+      "slug": "building_machinery",
+      "ru": "Строительная техника",
+      "path": "Строительство > Строительная техника"
+    },
+    {
+      "id": 130,
+      "slug": "building_and_finishing_services",
+      "ru": "Строительно-отделочные услуги",
+      "path": "Строительство > Строительно-отделочные услуги"
+    },
+    {
+      "id": 127,
+      "slug": "ceramic_pipes",
+      "ru": "Трубы керамические",
+      "path": "Строительство > Трубы керамические"
+    },
+    {
+      "id": 55,
+      "slug": "oil_and_gas_products_fuels_and_lubricants",
+      "ru": "Топливо и Энергетика",
+      "path": "Топливо и Энергетика"
+    },
+    {
+      "id": 60,
+      "slug": "fuel",
+      "ru": "Бензин, дизельное топливо, светлые нефтепродукты",
+      "path": "Топливо и Энергетика > Бензин, дизельное топливо, светлые нефтепродукты"
+    },
+    {
+      "id": 74,
+      "slug": "natural_gas",
+      "ru": "Газ, газообразное топливо, конденсат газовый",
+      "path": "Топливо и Энергетика > Газ, газообразное топливо, конденсат газовый"
+    },
+    {
+      "id": 72,
+      "slug": "oil",
+      "ru": "Нефть и нефтесырье",
+      "path": "Топливо и Энергетика > Нефть и нефтесырье"
+    },
+    {
+      "id": 267,
+      "slug": "petroleum_oils_lubricants_suspensionss",
+      "ru": "Нефтяные масла, смазки, суспензии",
+      "path": "Топливо и Энергетика > Нефтяные масла, смазки, суспензии"
+    },
+    {
+      "id": 59,
+      "slug": "special-purpose_liquids",
+      "ru": "Специальные жидкости",
+      "path": "Топливо и Энергетика > Нефтяные масла, смазки, суспензии > Специальные жидкости"
+    },
+    {
+      "id": 57,
+      "slug": "coke_oven_products",
+      "ru": "Продукция коксовых печей",
+      "path": "Топливо и Энергетика > Продукция коксовых печей"
+    },
+    {
+      "id": 58,
+      "slug": "radioactive_materials_and_radiation_sources_for_different_purposes",
+      "ru": "Радиоактивные вещества и источники радиоактивного излучения разного назначения",
+      "path": "Топливо и Энергетика > Радиоактивные вещества и источники радиоактивного излучения разного назначения"
+    },
+    {
+      "id": 76,
+      "slug": "turf",
+      "ru": "Торф",
+      "path": "Топливо и Энергетика > Торф"
+    },
+    {
+      "id": 61,
+      "slug": "solid_hydrocarbons_petroleum_bitumen_additives",
+      "ru": "Углеводороды твердые, битумы нефтяные, присадки",
+      "path": "Топливо и Энергетика > Углеводороды твердые, битумы нефтяные, присадки"
+    },
+    {
+      "id": 77,
+      "slug": "coal_and_lignite",
+      "ru": "Угли каменные и бурые",
+      "path": "Топливо и Энергетика > Угли каменные и бурые"
+    },
+    {
+      "id": 62,
+      "slug": "production_of_coke_petroleum_refinery_products_and_nuclear_fuel_reprocessing_products",
+      "ru": "Услуги в производстве кокса, продуктов переработки нефти и ядерного топлива",
+      "path": "Топливо и Энергетика > Услуги в производстве кокса, продуктов переработки нефти и ядерного топлива"
+    },
+    {
+      "id": 78,
+      "slug": "oil_and_gas_extraction_services",
+      "ru": "Услуги, связанные с добычей нефти, газа, угля, торфа",
+      "path": "Топливо и Энергетика > Услуги, связанные с добычей нефти, газа, угля, торфа"
+    },
+    {
+      "id": 149,
+      "slug": "vehicles_special-purpose_vehicles_components_and_spare_parts",
+      "ru": "Транспортные средства, спецтехника, детали и запчасти к ним",
+      "path": "Транспортные средства, спецтехника, детали и запчасти к ним"
+    },
+    {
+      "id": 150,
+      "slug": "air_transport",
+      "ru": "Авиационный транспорт",
+      "path": "Транспортные средства, спецтехника, детали и запчасти к ним > Авиационный транспорт"
+    },
+    {
+      "id": 151,
+      "slug": "road_transport",
+      "ru": "Автотранспорт",
+      "path": "Транспортные средства, спецтехника, детали и запчасти к ним > Автотранспорт"
+    },
+    {
+      "id": 152,
+      "slug": "ship_transport",
+      "ru": "Водный транспорт",
+      "path": "Транспортные средства, спецтехника, детали и запчасти к ним > Водный транспорт"
+    },
+    {
+      "id": 153,
+      "slug": "rail_transport",
+      "ru": "Железнодорожный транспорт",
+      "path": "Транспортные средства, спецтехника, детали и запчасти к ним > Железнодорожный транспорт"
+    },
+    {
+      "id": 154,
+      "slug": "motorcycles_mopeds_bicycles",
+      "ru": "Мотоциклы, мопеды, велосипеды",
+      "path": "Транспортные средства, спецтехника, детали и запчасти к ним > Мотоциклы, мопеды, велосипеды"
+    },
+    {
+      "id": 155,
+      "slug": "special-purpose_vehicles",
+      "ru": "Спецтехника",
+      "path": "Транспортные средства, спецтехника, детали и запчасти к ним > Спецтехника"
+    },
+    {
+      "id": 156,
+      "slug": "vehicle_maintenance_and_repair_services",
+      "ru": "Услуги по техническому обслуживанию и ремонту автомобилей",
+      "path": "Транспортные средства, спецтехника, детали и запчасти к ним > Услуги по техническому обслуживанию и ремонту автомобилей"
+    },
+    {
+      "id": 198,
+      "slug": "services",
+      "ru": "Услуги",
+      "path": "Услуги"
+    },
+    {
+      "id": 199,
+      "slug": "rental_services",
+      "ru": "Аренда и лизинг недвижимости, обмен, приватизация",
+      "path": "Услуги > Аренда и лизинг недвижимости, обмен, приватизация"
+    },
+    {
+      "id": 296,
+      "slug": "rental_leasing_of_transport",
+      "ru": "Аренда, лизинг транспорта",
+      "path": "Услуги > Аренда, лизинг транспорта"
+    },
+    {
+      "id": 200,
+      "slug": "audit_accounting_services",
+      "ru": "Аудиторские, бухгалтерские услуги",
+      "path": "Услуги > Аудиторские, бухгалтерские услуги"
+    },
+    {
+      "id": 201,
+      "slug": "personal_services",
+      "ru": "Бытовые услуги",
+      "path": "Услуги > Бытовые услуги"
+    },
+    {
+      "id": 309,
+      "slug": "project_work_execution",
+      "ru": "Выполнение проектных работ",
+      "path": "Услуги > Выполнение проектных работ"
+    },
+    {
+      "id": 202,
+      "slug": "hotel_services",
+      "ru": "Гостиничные услуги",
+      "path": "Услуги > Гостиничные услуги"
+    },
+    {
+      "id": 287,
+      "slug": "cleaning_service",
+      "ru": "Клининговые услуги",
+      "path": "Услуги > Клининговые услуги"
+    },
+    {
+      "id": 295,
+      "slug": "public_utilities",
+      "ru": "Коммунальные услуги",
+      "path": "Услуги > Коммунальные услуги"
+    },
+    {
+      "id": 203,
+      "slug": "consulting_service",
+      "ru": "Консалтинговые услуги",
+      "path": "Услуги > Консалтинговые услуги"
+    },
+    {
+      "id": 204,
+      "slug": "marketing_services",
+      "ru": "Маркетинговые услуги",
+      "path": "Услуги > Маркетинговые услуги"
+    },
+    {
+      "id": 205,
+      "slug": "scientific_and_technical_development",
+      "ru": "Научно-техническая разработка",
+      "path": "Услуги > Научно-техническая разработка"
+    },
+    {
+      "id": 206,
+      "slug": "educational_service",
+      "ru": "Образовательные услуги",
+      "path": "Услуги > Образовательные услуги"
+    },
+    {
+      "id": 207,
+      "slug": "organization_of_holidays_trainings",
+      "ru": "Организация праздников, тренингов",
+      "path": "Услуги > Организация праздников, тренингов"
+    },
+    {
+      "id": 208,
+      "slug": "security_service",
+      "ru": "Охранные услуги",
+      "path": "Услуги > Охранные услуги"
+    },
+    {
+      "id": 210,
+      "slug": "other_services",
+      "ru": "Прочие услуги",
+      "path": "Услуги > Прочие услуги"
+    },
+    {
+      "id": 211,
+      "slug": "advertising_and_printing_services_design",
+      "ru": "Рекламные и полиграфические услуги, дизайн",
+      "path": "Услуги > Рекламные и полиграфические услуги, дизайн"
+    },
+    {
+      "id": 212,
+      "slug": "recruitment_services",
+      "ru": "Рекрутинговые услуги",
+      "path": "Услуги > Рекрутинговые услуги"
+    },
+    {
+      "id": 294,
+      "slug": "repair_of_household_products_equipment_and_personal_items",
+      "ru": "Ремонт бытовых изделий, техники и предметов личного пользования",
+      "path": "Услуги > Ремонт бытовых изделий, техники и предметов личного пользования"
+    },
+    {
+      "id": 214,
+      "slug": "funeral_services",
+      "ru": "Ритуальные услуги",
+      "path": "Услуги > Ритуальные услуги"
+    },
+    {
+      "id": 213,
+      "slug": "real_estate_services",
+      "ru": "Риэлторские услуги",
+      "path": "Услуги > Риэлторские услуги"
+    },
+    {
+      "id": 215,
+      "slug": "sports_services",
+      "ru": "Спортивные услуги",
+      "path": "Услуги > Спортивные услуги"
+    },
+    {
+      "id": 216,
+      "slug": "insurance_service",
+      "ru": "Страховые услуги",
+      "path": "Услуги > Страховые услуги"
+    },
+    {
+      "id": 217,
+      "slug": "tourist_service",
+      "ru": "Туристические услуги",
+      "path": "Услуги > Туристические услуги"
+    },
+    {
+      "id": 293,
+      "slug": "technical_and_commercial_services",
+      "ru": "Услуги в области технической и коммерческой деятельности",
+      "path": "Услуги > Услуги в области технической и коммерческой деятельности"
+    },
+    {
+      "id": 292,
+      "slug": "services_in_retail_and_wholesale_trade",
+      "ru": "Услуги в розничной и оптовой торговле",
+      "path": "Услуги > Услуги в розничной и оптовой торговле"
+    },
+    {
+      "id": 291,
+      "slug": "hotel_services_accommodation",
+      "ru": "Услуги гостиниц, проживание",
+      "path": "Услуги > Услуги гостиниц, проживание"
+    },
+    {
+      "id": 116,
+      "slug": "catering_services",
+      "ru": "Услуги общественного питания",
+      "path": "Услуги > Услуги общественного питания"
+    },
+    {
+      "id": 290,
+      "slug": "rental_services_for_machinery_equipment_household_goods_and_personal_items",
+      "ru": "Услуги по аренде техники, оборудования, бытовых товаров и предметов личного пользования",
+      "path": "Услуги > Услуги по аренде техники, оборудования, бытовых товаров и предметов личного пользования"
+    },
+    {
+      "id": 209,
+      "slug": "production_services",
+      "ru": "Услуги по сертификации продукции и аттестации производств",
+      "path": "Услуги > Услуги по сертификации продукции и аттестации производств"
+    },
+    {
+      "id": 288,
+      "slug": "restaurant_services_food",
+      "ru": "Услуги ресторанов, питание",
+      "path": "Услуги > Услуги ресторанов, питание"
+    },
+    {
+      "id": 218,
+      "slug": "financial_service",
+      "ru": "Финансовые услуги",
+      "path": "Услуги > Финансовые услуги"
+    },
+    {
+      "id": 219,
+      "slug": "legal_service",
+      "ru": "Юридические услуги",
+      "path": "Услуги > Юридические услуги"
+    },
+    {
+      "id": 183,
+      "slug": "chemical_and_pharmaceutical_substances_chemical_and_laboratory_supplies",
+      "ru": "Химическая промышленность",
+      "path": "Химическая промышленность"
+    },
+    {
+      "id": 159,
+      "slug": "household_chemicals_detergents",
+      "ru": "Бытовая химия, моющие средства",
+      "path": "Химическая промышленность > Бытовая химия, моющие средства"
+    },
+    {
+      "id": 79,
+      "slug": "polymer_materials",
+      "ru": "Полимерные материалы, пластмассовые изделия",
+      "path": "Химическая промышленность > Полимерные материалы, пластмассовые изделия"
+    },
+    {
+      "id": 81,
+      "slug": "foam_plastic",
+      "ru": "Пенопласты",
+      "path": "Химическая промышленность > Полимерные материалы, пластмассовые изделия > Пенопласты"
+    },
+    {
+      "id": 82,
+      "slug": "polymer_resins_rubber",
+      "ru": "Полимерные смолы, каучук",
+      "path": "Химическая промышленность > Полимерные материалы, пластмассовые изделия > Полимерные смолы, каучук"
+    },
+    {
+      "id": 83,
+      "slug": "glass_reinforced_plastic",
+      "ru": "Стеклопластики",
+      "path": "Химическая промышленность > Полимерные материалы, пластмассовые изделия > Стеклопластики"
+    },
+    {
+      "id": 84,
+      "slug": "production_of_plastic_products",
+      "ru": "Услуги в производстве пластмассовых изделий",
+      "path": "Химическая промышленность > Полимерные материалы, пластмассовые изделия > Услуги в производстве пластмассовых изделий"
+    },
+    {
+      "id": 185,
+      "slug": "chemical_and_laboratory_supplies",
+      "ru": "Химические и лабораторные принадлежности",
+      "path": "Химическая промышленность > Химические и лабораторные принадлежности"
+    },
+    {
+      "id": 256,
+      "slug": "chemical_compounds_reagents_chemicals_for_various_purposes",
+      "ru": "Химические соединения, реактивы, химикаты различного назначения",
+      "path": "Химическая промышленность > Химические соединения, реактивы, химикаты различного назначения"
+    },
+    {
+      "id": 184,
+      "slug": "chemical_products",
+      "ru": "Химическая продукция",
+      "path": "Химическая промышленность > Химические соединения, реактивы, химикаты различного назначения > Химическая продукция"
+    },
+    {
+      "id": 186,
+      "slug": "chemical_elements_substances_compounds",
+      "ru": "Химические элементы, вещества, соединения",
+      "path": "Химическая промышленность > Химические соединения, реактивы, химикаты различного назначения > Химические элементы, вещества, соединения"
+    },
+    {
+      "id": 275,
+      "slug": "ecology",
+      "ru": "Экология",
+      "path": "Экология"
+    },
+    {
+      "id": 276,
+      "slug": "landscaping_and_landscape_work",
+      "ru": "Благоустройство территорий и ландшафтные работы",
+      "path": "Экология > Благоустройство территорий и ландшафтные работы"
+    },
+    {
+      "id": 277,
+      "slug": "landscaping",
+      "ru": "Благоустройство территорий",
+      "path": "Экология > Благоустройство территорий и ландшафтные работы > Благоустройство территорий"
+    },
+    {
+      "id": 278,
+      "slug": "maintenance_of_cemeteries",
+      "ru": "Содержание кладбищ",
+      "path": "Экология > Благоустройство территорий и ландшафтные работы > Содержание кладбищ"
+    },
+    {
+      "id": 279,
+      "slug": "waste_removal_and_disposal",
+      "ru": "Вывоз и утилизация отходов",
+      "path": "Экология > Вывоз и утилизация отходов"
+    },
+    {
+      "id": 280,
+      "slug": "snow_cleaning_and_removal",
+      "ru": "Вывоз и уборка снега",
+      "path": "Экология > Вывоз и утилизация отходов > Вывоз и уборка снега"
+    },
+    {
+      "id": 281,
+      "slug": "removal_and_disposal_of_medical_waste",
+      "ru": "Вывоз и утилизация медицинских отходов",
+      "path": "Экология > Вывоз и утилизация отходов > Вывоз и утилизация медицинских отходов"
+    },
+    {
+      "id": 282,
+      "slug": "removal_and_disposal_of_hazardous_waste",
+      "ru": "Вывоз и утилизация опасных отходов",
+      "path": "Экология > Вывоз и утилизация отходов > Вывоз и утилизация опасных отходов"
+    },
+    {
+      "id": 283,
+      "slug": "solid_waste_removal",
+      "ru": "Вывоз твердых бытовых отходов",
+      "path": "Экология > Вывоз и утилизация отходов > Вывоз твердых бытовых отходов"
+    },
+    {
+      "id": 285,
+      "slug": "disinfection_disinsection_and_deratization",
+      "ru": "Дезинфекция, дезинсекция и дератизация",
+      "path": "Экология > Дезинфекция, дезинсекция и дератизация"
+    },
+    {
+      "id": 284,
+      "slug": "environment_protection",
+      "ru": "Защита окружающей среды",
+      "path": "Экология > Защита окружающей среды"
+    },
+    {
+      "id": 187,
+      "slug": "electrical_equipment_electronics",
+      "ru": "Электрооборудование, электроника",
+      "path": "Электрооборудование, электроника"
+    },
+    {
+      "id": 189,
+      "slug": "autonomous_power_supply_sources",
+      "ru": "Источники автономного электропитания",
+      "path": "Электрооборудование, электроника > Источники автономного электропитания"
+    },
+    {
+      "id": 188,
+      "slug": "insulating_products",
+      "ru": "Изоляторные изделия",
+      "path": "Электрооборудование, электроника > Электронные компоненты > Изоляторные изделия"
+    },
+    {
+      "id": 190,
+      "slug": "chips_electrical_radio_products_other_electrical_components",
+      "ru": "Микросхемы, электрорадиоизделия, электронные компоненты прочие",
+      "path": "Электрооборудование, электроника > Электронные компоненты > Микросхемы, электрорадиоизделия, электронные компоненты прочие"
+    },
+    {
+      "id": 196,
+      "slug": "electrodes",
+      "ru": "Электроды",
+      "path": "Электрооборудование, электроника > Электронные компоненты > Электроды"
+    },
+    {
+      "id": 197,
+      "slug": "other_electrical_equipment_and_its_components",
+      "ru": "Электрооборудование прочее и его детали",
+      "path": "Электрооборудование, электроника > Электронные компоненты > Электрооборудование прочее и его детали"
+    },
+    {
+      "id": 272,
+      "slug": "electrical_materials_and_electrical_equipment_other",
+      "ru": "Электротехнические материалы и электрооборудование прочее",
+      "path": "Электрооборудование, электроника > Электротехнические материалы и электрооборудование прочее"
+    }
+  ],
+  "stats": {
+    "original_total": 1553,
+    "original_matched": 1270,
+    "original_unmatched": 283,
+    "user_total": 300,
+    "user_with_matches": 32,
+    "user_without_matches": 268,
+    "match_methods": {
+      "rule": 1260,
+      "fuzzy": 10
+    }
+  }
+}

@@ -1,0 +1,92 @@
+# Крупные сети / бренды — вряд ли пойдут на партнёрство с мелкой компанией
+# Всего: 66
+
+# --- Первый БИТ (сеть) (46) ---
+https://www.1cbit.ru
+https://voronezh.1cbit.ru
+https://spb.1cbit.ru
+https://chelyabinsk.1cbit.ru
+https://kazan.1cbit.ru
+https://www.1cbit.kz
+https://krasnodar.1cbit.ru
+https://samara.1cbit.ru
+https://nizhniy.1cbit.ru
+https://rostov.1cbit.ru
+https://tyumen.1cbit.ru
+https://saratov.1cbit.ru
+https://irkutsk.1cbit.ru
+https://burg.1cbit.ru
+https://kaliningrad.1cbit.ru
+https://omsk.1cbit.ru
+https://krasnoyarsk.1cbit.ru
+https://astana.1cbit.kz
+https://ufa.1cbit.ru
+https://tomsk.1cbit.ru
+https://novosibirsk.1cbit.ru
+https://novoros.1cbit.ru
+https://penza.1cbit.ru
+https://izhevsk.1cbit.ru
+https://kostanai.1cbit.kz
+https://volgograd.1cbit.ru
+https://orenburg.1cbit.ru
+https://perm.1cbit.ru
+https://tambov.1cbit.ru
+https://khimki.1cbit.ru
+https://kemerovo.1cbit.ru
+https://podolsk.1cbit.ru
+https://vladimir.1cbit.ru
+https://yaroslavl.1cbit.ru
+https://sev.1cbit.ru
+https://vladivostok.1cbit.ru
+https://krasnogorsk.1cbit.ru
+https://yoshkar-ola.1cbit.ru
+https://brest.1cbit.by
+https://luberci.1cbit.ru
+https://balashiha.1cbit.ru
+https://www.1cbit.by
+https://korolev.1cbit.ru
+https://odintsovo.1cbit.ru
+https://bratsk.1cbit.ru
+https://anapa.1cbit.ru
+
+# --- Koderline (сеть) (7) ---
+https://www.koderline.ru
+https://spb.koderline.ru
+https://krasnodar.koderline.ru
+https://nn.koderline.ru
+https://ivanovo.koderline.ru
+https://www.koderline.kz
+https://koderline.uz
+
+# --- 1С-Рарус (3) ---
+https://rarus.ru
+https://rarus-crimea.ru
+https://rarus.uz
+
+# --- RDV (2) ---
+https://rdv-it.ru
+https://rdv-it.kz
+
+# --- 1АБ (1) ---
+https://www.1ab.ru
+
+# --- Gendalf (1) ---
+https://gendalf.ru
+
+# --- SoftBalance (1) ---
+https://sb-vnedr.ru
+
+# --- WiseAdvice (1) ---
+https://wiseadvice-it.ru
+
+# --- Axelot (1) ---
+https://www.axelot.ru
+
+# --- Астрал (1) ---
+https://astral.ru
+
+# --- Infotek (1) ---
+https://infotek-soft.ru
+
+# --- официальный 1С (1) ---
+https://1c.kz
