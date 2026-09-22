@@ -24,8 +24,15 @@
 | `partner_emails.json` | Полный отчёт по каждому сайту |
 | `partner_emails_summary.json` | Краткая статистика |
 
-### Статистика
-- сайтов: **1519**
-- сайтов с email: **1049**
-- уникальных email: **1803**
-- email на домене партнёра: **1322**
+## Аутрич (отфильтровано)
+
+| Файл | Описание |
+|------|----------|
+| `partners_large_skip.txt` | Крупные сети/бренды — **не писать** (66) |
+| `partners_outreach.txt` | Кандидаты: сайт + email (**1024** сайтов) |
+| `partners_outreach_emails.txt` | Только email для рассылки (**1524**) |
+| `partners_outreach.csv` | сайт → email |
+| `partners_outreach_no_email.txt` | Не крупные, но email не найден (429) |
+| `partners_outreach_summary.json` | Статистика фильтра |
+
+Крупных отсечено: Первый БИТ (~46 URL), Koderline, Рарус, 1АБ, Gendalf, Axelot, WiseAdvice, RDV, Астрал, SoftBalance и др.

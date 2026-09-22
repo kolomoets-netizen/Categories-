@@ -1,0 +1,21 @@
+{
+  "sites_total": 1519,
+  "large_skip": 66,
+  "outreach_sites_with_email": 1024,
+  "outreach_unique_emails": 1524,
+  "outreach_sites_no_email": 429,
+  "skip_by_reason": {
+    "Первый БИТ (сеть)": 46,
+    "Koderline (сеть)": 7,
+    "1С-Рарус": 3,
+    "RDV": 2,
+    "1АБ": 1,
+    "Gendalf": 1,
+    "SoftBalance": 1,
+    "WiseAdvice": 1,
+    "Axelot": 1,
+    "Астрал": 1,
+    "Infotek": 1,
+    "официальный 1С": 1
+  }
+}
