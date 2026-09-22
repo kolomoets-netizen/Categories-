@@ -11,6 +11,24 @@
 pip install -r email_parser/requirements.txt
 ```
 
+### Docker (опционально)
+
+Локальный Python не нужен — удобно, если Docker уже есть:
+
+```bash
+docker build -t partner-parser .
+
+# список сайтов с пагинацией
+docker run --rm -v "$PWD:/data" partner-parser sites \
+  -u "https://YOUR_LISTING" \
+  -o /data/partner_sites.txt
+
+# email по списку
+docker run --rm -v "$PWD:/data" partner-parser emails \
+  -f /data/partner_sites.txt \
+  -o /data/emails.json --csv /data/emails.csv
+```
+
 ## 1. Парсер списка сайтов (пагинация)
 
 ```bash

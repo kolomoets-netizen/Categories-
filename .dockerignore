@@ -1,0 +1,9 @@
+# Build context ignore
+.git
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+partner_sites.txt
+*.json
+*.csv
+output/
